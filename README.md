@@ -25,7 +25,7 @@ The game asks multiple-choice questions to the user, checks answers, and provide
 ---
 
 ## How to Run:
-1. Copy the code from `quiz_game.py`.
+1. Copy the code from `quiz-game.ipynb`.
 2. Paste in Google Colab / Jupyter Notebook / Any Python IDE.
 3. Run the code.
 4. Answer the questions and check your score.
@@ -38,7 +38,7 @@ The game asks multiple-choice questions to the user, checks answers, and provide
 - Correct / Wrong Response
 - Final Score Display
 
-Output screenshots available in `output.pdf`
+Output screenshots available in `quiz-game Op.pdf`
 
 ---
 
