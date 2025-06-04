@@ -20,7 +20,7 @@ The game asks multiple-choice questions to the user, checks answers, and provide
 
 ## Technologies Used:
 - Python 3
-- Google Colab / Any Python IDE
+- Google Colab 
 
 ---
 
